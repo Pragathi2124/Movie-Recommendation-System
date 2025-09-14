@@ -3,6 +3,7 @@
 # Content-Based Movie Recommendation System
 
 **🎬 Project Overview**
+
 This project implements a content-based movie recommendation system. The system is designed to suggest movies to users based on the content and attributes of a movie they have already watched and liked. By analyzing key features such as genres, keywords, cast, and crew, the model identifies and recommends other movies with similar characteristics.
 
 The core of this recommendation engine is the use of Natural Language Processing (NLP) to convert textual information into numerical vectors, followed by the application of Cosine Similarity to measure the likeness between movies. This approach allows for effective and contextually relevant recommendations, demonstrating a practical application of vector space models in building intelligent systems.
